@@ -4,7 +4,7 @@ I'm Tim.  I'm an experienced Web Engineer focused on Front End Development with 
 
 Predominately I work with Javascript, React, Node, and Sass, and have created award winning web experiences. I also focus on UX, accessibility, and design. 
 
-🌱 I’m currently learning Typescript and getting deeper into DevOps (studying for AWS Developer Cert)
+🌱 I’m currently improving my skills with Astro and have recently completed a Udemy course on TypeScript.
 
 I'm always open to collaborations and just talking about code so feel free to contact me!
 
