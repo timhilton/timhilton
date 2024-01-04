@@ -6,7 +6,7 @@ Predominately I work with Javascript, React, Node, and Sass, and have created aw
 
 🌱 I’m currently improving my skills with Astro and have recently completed a Udemy course on TypeScript. 
 
-📃 I recently earned an AWS Certified Cloud Practitioner badge and am studying to pass the AWS Certified Developer - Associate certification. I am becoming more interested in architecture and devops.
+📃 I recently earned an AWS Certified Cloud Practitioner badge and am studying to pass the AWS Certified Solutions Architect - Associate certification. I am becoming more interested in architecture and devops.
 
 I'm always open to collaborations and just talking about code so feel free to contact me!
 
